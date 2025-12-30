@@ -1,5 +1,3 @@
-import type { features } from "process"
-
 const questions_and_answers = [
     {
         question:"What is the cost for this service?",
